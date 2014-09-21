@@ -1,0 +1,7 @@
+Git
+
+1.) Local repository
+2.) Remote reposiory
+
+
+1.) 
